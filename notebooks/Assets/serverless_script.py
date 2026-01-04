@@ -1,0 +1,1 @@
+print("Runnign code via Serverless compute")
